@@ -1,0 +1,35 @@
+body {
+    background-image: url(https://proprikol.ru/wp-content/uploads/2019/08/kartinki-na-zadnij-fon-28.jpg);
+}
+header a {
+    color: white;
+    text-decoration: none;
+    margin: 5px;
+    
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    background-image: url(https://avatars.mds.yandex.net/i?id=e34ec7f182d6a05824e5258be0ce5d0a-4239171-images-thumbs&n=13&exp=1);
+    border-radius: 5px;
+    padding: 1px;
+    margin: 10px;
+}
+nav {
+    background-image: linear-gradient(rgb(255, 255, 0),rgb(0, 119, 255));
+    padding: 10px;
+}
+header {
+    background-image: linear-gradient( rgb(0, 119, 255), rgb(255, 255, 0));
+    padding: 10px;
+    border-bottom: 4px solid white;
+}
+h1 {
+    color:white;
+}
+p {
+    color:white;
+}
+main img {
+    border-radius: 25px;
+}
